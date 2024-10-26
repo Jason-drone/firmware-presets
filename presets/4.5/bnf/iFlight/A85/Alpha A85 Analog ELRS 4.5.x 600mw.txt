@@ -174,7 +174,6 @@ rateprofile 0
 
 # end the command batch
 batch end
-save
 # 
 
 #$ OPTION END
