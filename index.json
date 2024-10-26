@@ -286,6 +286,7 @@
       "akk",
       "AlexFPV",
       "Alpha",
+      "Alpha 85",
       "analog",
       "antonig",
       "AOS",
@@ -315,6 +316,8 @@
       "Cgo",
       "Chief",
       "Chimera",
+      "Chimera 7 Pro V2",
+      "Chimera 9 Pro",
       "chris",
       "cine25",
       "cine35",
@@ -402,7 +405,7 @@
       "hot",
       "HS5",
       "HV",
-      "iflight",
+      "iFlight",
       "IllusionFpv",
       "immersion",
       "immersionRC",
@@ -430,6 +433,7 @@
       "loRanger",
       "lr5",
       "Mach",
+      "Mach R5 Sport",
       "mamba",
       "Marek",
       "mck",
@@ -452,6 +456,9 @@
       "nano",
       "nanohawk",
       "Nazgul",
+      "Nazgul F4",
+      "Nazgul F5 V2",
+      "Nazgul F6 V2",
       "Neil",
       "neuron",
       "nice",
@@ -548,6 +555,10 @@
       "tank solo",
       "tank ultimate",
       "Taurus",
+      "Taurus X8",
+      "Taurus X8 PRO",
+      "Taurus X8 Pro Max",
+      "Taurus X8 V3",
       "TBS",
       "tbs sa",
       "Team Black Sheep",
@@ -5750,7 +5761,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/A85/Alpha A85 Analog ELRS 4.5.x 25mw.txt",
-      "hash": "3e941e167fe2697034aad80af52b3526b270c2de79b4b8907603b0685b812d1c",
+      "hash": "aa666757a035b6cceab8f63816424fd400158f1a2e0ed967066b13ceead2b3c8",
       "title": "Alpha A85 Analog 25mw vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5758,7 +5769,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Alpha 85",
         "Alpha",
         "A85"
       ],
@@ -5768,7 +5780,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/A85/Alpha A85 Analog ELRS 4.5.x 600mw.txt",
-      "hash": "ab0e57f4ddb3d847c88643689e3688f33892aa2b5cad6de273de3543576bf967",
+      "hash": "cec678a17a78cd701b3898918abeb182100d68475a5fc3ef8c9730d4afd8168b",
       "title": "Alpha A85 Analog 600mw vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5776,7 +5788,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Alpha 85",
         "Alpha",
         "A85"
       ],
@@ -5786,7 +5799,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera7 Pro V2/Chimera7 Pro V2 Analog（1.6w vtx） ELRS.txt",
-      "hash": "a0c72f48ae2822a6fabf6f8f51229c0f507e7f65512251671bb02d7736e08419",
+      "hash": "4ed763d7b3b9d2b52ee2113788c921ea25f3e97c5f0e9b805538068d883af293",
       "title": "Chimera 7 Pro V2 Analog 1.6w vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5794,7 +5807,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Chimera 7 Pro V2",
         "Chimera"
       ],
       "author": "iFlight",
@@ -5803,7 +5817,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera7 Pro V2/Chimera7 Pro V2 Analog（2.5w vtx） ELRS.txt",
-      "hash": "66c43e079e5ecf385dc3ae19ad1dcd7c36af147b644f9e62b02110585a1cab96",
+      "hash": "c97c7aaae6e8d3a42ab1a51e3499752756912986396b0ace07b12a60c203279e",
       "title": "Chimera 7 Pro V2 Analog 1.6w vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5811,7 +5825,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Chimera 7 Pro V2",
         "Chimera"
       ],
       "author": "iFlight",
@@ -5820,7 +5835,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera9 Pro/Chimera9 Pro Analog（1.6w vtx） ELRS.txt",
-      "hash": "ca1ddcd04373b85aed136a266f9bd89be305ffa3093dafd7ec43ae6526b29a94",
+      "hash": "76319be458f11ad1ad3a24cd30ab4de78c5b8febaa4206096e211ecb593cff7b",
       "title": "Chimera 9 Pro Analog 1.6w vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5828,7 +5843,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Chimera 9 Pro",
         "Chimera"
       ],
       "author": "iFlight",
@@ -5837,7 +5853,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera9 Pro/Chimera9 Pro Analog（2.5w vtx） ELRS.txt",
-      "hash": "fb5c6986fadc86734f5528c9d2bd1aef0710dc64d12335e5cbe0960910f1e587",
+      "hash": "8f6fab8b69d8261951a33c4a904fc793cb7ff648b836873fec6027a2cc482e59",
       "title": "Chimera 9 Pro Analog 2.5w vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5845,7 +5861,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Chimera 9 Pro",
         "Chimera"
       ],
       "author": "iFlight",
@@ -5854,7 +5871,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera9 Pro/Chimera9 Pro O3 DJI.txt",
-      "hash": "4f2c4d52c92802c1221c0fd755749b32364c007f0b67bf1bd21937847debfd07",
+      "hash": "5b17cd1d868b8a17f312c63458fb45d2fd552bf335d619e61e422428497d4122",
       "title": "Chimera 9 Pro O3 DJI RC",
       "firmware_version": [
         "4.5"
@@ -5862,7 +5879,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Chimera 9 Pro",
         "Chimera"
       ],
       "author": "iFlight",
@@ -5871,7 +5889,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera9 Pro/Chimera9 Pro O3 ELRS.txt",
-      "hash": "663a0ece5bbdc9cbcff700332363cc87081c38e444cfd79b084bd3647d9ea2c5",
+      "hash": "2c650f391db2c662d092c73a361f444cb70f22d94a3c1467a8d72cc8d78a5584",
       "title": "Chimera 9 Pro O3 CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5879,7 +5897,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Chimera 9 Pro",
         "Chimera"
       ],
       "author": "iFlight",
@@ -5888,7 +5907,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Mach R5 Sport/Mach R5 Sport Analog 6s ELRS 4.5.0.txt",
-      "hash": "423dd8caf2d45d9176bd632777f6a72c10452d8250ae3155b08a81469aa33e1c",
+      "hash": "7156f929418e67b6a5e2fc434e031ba39924187cf520466bfe09bd74302fb743",
       "title": "Mach R5 Sport Analog CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5896,7 +5915,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Mach R5 Sport",
         "Mach",
         "R5",
         "Sport"
@@ -5907,7 +5927,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Mach R5 Sport/Mach R5 Sport HDZero 6s ELRS 4.5.0.txt",
-      "hash": "b122277275e7f54b1203c0d47719012c282d1585f4576dc8afe15e38f511b1fe",
+      "hash": "eff9fbf52cee104a0a4b6e4ccf9690d23fbf996c1574a18caa1871de34181faa",
       "title": "Mach R5 Sport HDZero CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5915,7 +5935,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Mach R5 Sport",
         "Mach",
         "R5",
         "Sport"
@@ -5926,7 +5947,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Mach R5 Sport/Mach R5 Sport Vista 6s DJI 4.5.0.txt",
-      "hash": "621beac94ee5e32cac2c33e3e042ec39b6fc07429534bf1f3573c1dfb7697110",
+      "hash": "ba1a2c4bb90f06b7e3cbbcc27a6cb27a1b2dc4b7dceb67475b8923c2680dac3b",
       "title": "Mach R5 Sport Vista DJI RC",
       "firmware_version": [
         "4.5"
@@ -5934,7 +5955,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Mach R5 Sport",
         "Mach",
         "R5",
         "Sport"
@@ -5945,7 +5967,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Mach R5 Sport/Mach R5 Sport Vista 6s ELRS 4.5.0.txt",
-      "hash": "2b6da8bfb8ce584dddfe9dcbc19338a2bfd431b325e37ab9ff49aa719e5e999f",
+      "hash": "d102a5cbb7072267c94bc14a96367246d1b3b7153099b5f05d76fc0be991f96b",
       "title": "Mach R5 Sport Vista CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5953,7 +5975,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Mach R5 Sport",
         "Mach",
         "R5",
         "Sport"
@@ -5964,7 +5987,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F4/F4 O3 DJI 4.5.x.txt",
-      "hash": "fb0cd51021a0c18e5880c2a03227b13afb07f52b9ef002199afec3402d49a33e",
+      "hash": "158f69396f468e9a95809b10177fcb80018348306bc585e47b659a41438b023a",
       "title": "Nazgul F4 DJI RC",
       "firmware_version": [
         "4.5"
@@ -5972,7 +5995,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F4",
         "Nazgul",
         "F4"
       ],
@@ -5982,7 +6006,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F4/F4 O3 ELRS 4.5.x.txt",
-      "hash": "da6ccbd4736d10ebe8f79ad4f6d4fbee08f84f092247a476a0bdc3c4788286fe",
+      "hash": "7097adba0672375b9f6002f958d16c904d394749f15d52f427eb4abeed8b7a82",
       "title": "Nazgul F4 CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5990,7 +6014,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F4",
         "Nazgul",
         "F4"
       ],
@@ -6000,7 +6025,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F5 V2/F5 V2 Analog ELRS.txt",
-      "hash": "6e11c7ed2d395029eadaf010c91158b98a822229591276d63ba728b056dba7b8",
+      "hash": "c082b0274e07b53be08ec402b4d78f82e5251aecd02e9ce48be7f400585728d3",
       "title": "Nazgul F5 V2 Analog CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6008,7 +6033,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F5 V2",
         "Nazgul",
         "F5"
       ],
@@ -6018,7 +6044,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F5 V2/F5 V2 O3 DJI 4.5.0.txt",
-      "hash": "f2174e2b3aa0b37024720cf121dd83b4414fe16055e9f74718253571bc1ee113",
+      "hash": "6d2452f5c5f330bb19540da98f5285193d443e883b9d81132fe7e6fd5ccf2526",
       "title": "Nazgul F5 V2 O3 DJI RC",
       "firmware_version": [
         "4.5"
@@ -6026,7 +6052,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F5 V2",
         "Nazgul",
         "F5"
       ],
@@ -6036,7 +6063,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F5 V2/F5 V2 O3 ELRS 4.5.0.txt",
-      "hash": "ba904830ff9ce59c3c6d6d4dbeda75ea2a37a122b4b057f1b6d3172a0684f927",
+      "hash": "ae11f9cdf974e038fba8e4b2515f5b90b358435c3bfb2739eb028cc37b0596fe",
       "title": "Nazgul F5 V2 O3 CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6044,7 +6071,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F5 V2",
         "Nazgul",
         "F5"
       ],
@@ -6054,7 +6082,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F5 V2/F5 V2 Vista DJI 4.5.0.txt",
-      "hash": "1ffb5f27ec986a21c2a3cc4c728b8a8c79944794348ffb8b6a31e2fac84ca49c",
+      "hash": "96f9a33b1fa7803f31e267ad4fdf673d2144878bc70141e45f6c1b523f8d370b",
       "title": "Nazgul F5 V2 Vista DJI RC",
       "firmware_version": [
         "4.5"
@@ -6062,7 +6090,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F5 V2",
         "Nazgul",
         "F5"
       ],
@@ -6072,7 +6101,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F5 V2/F5 V2 Vista ELRS 4.5.0.txt",
-      "hash": "8eaef80da4d8d75ac7fa8eaccae0f9d172cf11aee3beb06cadd7c4d68d2bf11e",
+      "hash": "6b49c7c68f8bb7601d4a0c5ac68c5d3de9b07d61fdf77e42c8da9da76742e339",
       "title": "Nazgul F5 V2 Vista CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6080,7 +6109,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F5 V2",
         "Nazgul",
         "F5"
       ],
@@ -6090,7 +6120,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F6 V2/F6 V2 Analog ELRS 4.5.0.txt",
-      "hash": "0730d2a5f91444492811e6551e6ace4231db60a4c9feec341b71f356dd35a9f6",
+      "hash": "1a513fce46b9661f1196313728cddb4eb5f34ee6154f13053c03e010c9dd5e28",
       "title": "Nazgul F6 V2 Analog CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6098,7 +6128,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F6 V2",
         "Nazgul",
         "F6"
       ],
@@ -6108,7 +6139,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F6 V2/F6 V2 O3 DJI 4.5.0.txt",
-      "hash": "62d62137ee68e6bbca6b9b1fc19702e069874ab31a9e29d6fd5f8c82507ef2f6",
+      "hash": "eabf6b717371c0e64c269b17ceb1ada57886e4e3b987f8b0684ef3a197c0954f",
       "title": "Nazgul F6 V2 DJI RC",
       "firmware_version": [
         "4.5"
@@ -6116,7 +6147,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F6 V2",
         "Nazgul",
         "F6"
       ],
@@ -6126,7 +6158,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F6 V2/F6 V2 O3 ELRS 4.5.0.txt",
-      "hash": "8c1ef2237053d111eb934c3d2900d58ce52e23700dbd1628bb0ddb5daab3cbf7",
+      "hash": "03a676eb61e99f4175851e72b3a37ca7d74277dafed23c7a17b8ac5d36f4309e",
       "title": "Nazgul F6 V2 O3 CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6134,7 +6166,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F6 V2",
         "Nazgul",
         "F6"
       ],
@@ -6144,7 +6177,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F6 V2/F6 V2 Vista DJI 4.5.0.txt",
-      "hash": "630e2121e724cb3227159879f16a48b3b8cbd5f2678bb6e76439fea5e0737b55",
+      "hash": "e355902e5bb6c420085bb235785555f47080b577fef240e03132f7f2570acca6",
       "title": "Nazgul F6 V2 Vista DJI RC",
       "firmware_version": [
         "4.5"
@@ -6152,7 +6185,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F6 V2",
         "Nazgul",
         "F6"
       ],
@@ -6162,7 +6196,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F6 V2/F6 V2 Vista ELRS 4.5.0.txt",
-      "hash": "3dde2fbcc9dc38f4666ba8787abaaabf2a2dcc07180b7aa901938df7526f971c",
+      "hash": "9474c0f74bb408cde611e93accbbed41425479f8b462fca0b1cec65673068bda",
       "title": "Nazgul F6 V2 Vista CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6170,7 +6204,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Nazgul F6 V2",
         "Nazgul",
         "F6"
       ],
@@ -6180,7 +6215,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Taurus X8 Pro/Taurus X8 Pro O3 DJI 4.5.0.txt",
-      "hash": "be3b0ae78ae56146796a3e26a450dc929ce69c1b1aadfd1728c6a45d8efbe48f",
+      "hash": "8ca13b90c1bcae91f80bdaf8fe037b2a0f1ee127db8557a4e970593a4fdaf265",
       "title": "Taurus X8 PRO DJI RC",
       "firmware_version": [
         "4.5"
@@ -6188,7 +6223,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Taurus X8 PRO",
         "Taurus",
         "X8"
       ],
@@ -6198,7 +6234,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Taurus X8 Pro/Taurus X8 Pro O3 ELRS 4.5.0.txt",
-      "hash": "2cabac2eead39cdbb61abad58a49c1f247d92e9acf1c3dbf916f72ad4cdfa8c6",
+      "hash": "22d58cb71a7428c3638b4712a704f420294a58fa8de75f19a0dc4850df3f69c3",
       "title": "Taurus X8 PRO CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6206,7 +6242,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Taurus X8 PRO",
         "Taurus",
         "X8"
       ],
@@ -6216,7 +6253,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Taurus X8 V3/Taurus X8 V3 O3 DJI 4.5.0.txt",
-      "hash": "e4f10fe29680047cedb0c1fed53e5161f075938457a18f43d5d3ab5498804ca4",
+      "hash": "ed526bdb2b113d33f22850f74d947dfc79015ae493d57e16aa09d2148dedc2d6",
       "title": "Taurus X8 V3 DJI RC",
       "firmware_version": [
         "4.5"
@@ -6224,7 +6261,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Taurus X8 V3",
         "Taurus",
         "X8"
       ],
@@ -6234,7 +6272,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Taurus X8 V3/Taurus X8 V3 O3 ELRS 4.5.0.txt",
-      "hash": "eb9e10cc1cd0a8b55504f6dbf1956049640237beb630e8c96eb486a88433f8ab",
+      "hash": "18c14b763b3d62006298479077c1d661c6a06813c0c18421614cc87a19e4cdcd",
       "title": "Taurus X8 V3 CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6242,7 +6280,8 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
+        "iFlight",
+        "Taurus X8 V3",
         "Taurus",
         "X8"
       ],
@@ -6252,7 +6291,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/X8 Pro Max/IFLIGHT_X8_Pro_Max_DJI_SBUS.txt",
-      "hash": "bf58f9083c927e7886cfff7e01dcdda0a401c114c1ad6b42c73f723759464c4d",
+      "hash": "688046fc0b167f082a0eff135549f4ac79f2c7b2ab98e7047f9cf7c18f869102",
       "title": "Taurus X8 Pro Max DJI RC",
       "firmware_version": [
         "4.5"
@@ -6260,9 +6299,10 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
-        "Taurus",
-        "X8"
+        "iFlight",
+        "Taurus X8 Pro Max",
+        "Taurus X8",
+        "Taurus"
       ],
       "author": "iFlight",
       "force_options_review": true,
@@ -6270,7 +6310,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/X8 Pro Max/IFLIGHT_X8_Pro_Max_ELRS_CRSF.txt",
-      "hash": "b1e29ecff7a6450f3dafb962e1080ee7298bae6091697222ab8b495229cbff0d",
+      "hash": "13989837c6bddf3ef7d0615cbffc04b429f39770e801dce9a409585f06a2512c",
       "title": "Taurus X8 Pro Max CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6278,9 +6318,10 @@
       "category": "BNF",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "iflight",
-        "Taurus",
-        "X8"
+        "iFlight",
+        "Taurus X8 Pro Max",
+        "Taurus X8",
+        "Taurus"
       ],
       "author": "iFlight",
       "force_options_review": true,
