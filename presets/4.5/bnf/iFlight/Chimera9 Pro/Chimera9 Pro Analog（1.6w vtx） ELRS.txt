@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: BNF
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS:iflight, Chimera
+#$ KEYWORDS:iFlight,Chimera 9 Pro,Chimera
 #$ AUTHOR: iFlight
 
 #$ PARSER: MARKED

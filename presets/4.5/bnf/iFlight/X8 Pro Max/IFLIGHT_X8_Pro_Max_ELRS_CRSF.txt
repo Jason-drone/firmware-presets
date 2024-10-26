@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: BNF
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS:iflight, Taurus, X8
+#$ KEYWORDS:iFlight,Taurus X8 Pro Max,Taurus X8,Taurus
 #$ AUTHOR: iFlight
 
 #$ PARSER: MARKED

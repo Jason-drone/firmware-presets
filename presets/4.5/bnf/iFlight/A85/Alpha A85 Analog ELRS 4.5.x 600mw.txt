@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: BNF
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS:iflight, Alpha,A85
+#$ KEYWORDS:iFlight,Alpha 85, Alpha,A85
 #$ AUTHOR: iFlight
 
 #$ PARSER: MARKED

@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: BNF
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS:iflight, Nazgul, F5
+#$ KEYWORDS:iFlight,Nazgul F5 V2,Nazgul, F5
 #$ AUTHOR: iFlight
 
 #$ PARSER: MARKED
