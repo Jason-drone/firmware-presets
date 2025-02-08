@@ -323,8 +323,12 @@
       "cine35",
       "cine80",
       "CineApe",
+      "CineFlow",
+      "CineFlow 5",
       "cinelifter",
       "CineLog",
+      "CineLR",
+      "CineLR 7",
       "cinematic",
       "cinewhoop",
       "clean",
@@ -5761,7 +5765,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/A85/Alpha A85 Analog ELRS 4.5.x 25mw.txt",
-      "hash": "aa666757a035b6cceab8f63816424fd400158f1a2e0ed967066b13ceead2b3c8",
+      "hash": "3fc7731083290481e80a3e9717c1248c83754b36986b551742d681fc1b44624d",
       "title": "Alpha A85 Analog 25mw vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5780,7 +5784,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/A85/Alpha A85 Analog ELRS 4.5.x 600mw.txt",
-      "hash": "cec678a17a78cd701b3898918abeb182100d68475a5fc3ef8c9730d4afd8168b",
+      "hash": "2fe0f846de5ffc11be86ace2ab6fc638da9483aeb887b83768dfa81660db51cc",
       "title": "Alpha A85 Analog 600mw vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5799,7 +5803,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera7 Pro V2/Chimera7 Pro V2 Analog（1.6w vtx） ELRS.txt",
-      "hash": "4ed763d7b3b9d2b52ee2113788c921ea25f3e97c5f0e9b805538068d883af293",
+      "hash": "49a9ddabe80d895b1007a00794141af57fd69eb1e327441803e82aac72ee9277",
       "title": "Chimera 7 Pro V2 Analog 1.6w vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5817,7 +5821,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera7 Pro V2/Chimera7 Pro V2 Analog（2.5w vtx） ELRS.txt",
-      "hash": "c97c7aaae6e8d3a42ab1a51e3499752756912986396b0ace07b12a60c203279e",
+      "hash": "8d7c2550caf2c9e628e31428fff3e7e9beb2db0db16adfc62fdfc77150147676",
       "title": "Chimera 7 Pro V2 Analog 1.6w vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5835,7 +5839,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera9 Pro/Chimera9 Pro Analog（1.6w vtx） ELRS.txt",
-      "hash": "76319be458f11ad1ad3a24cd30ab4de78c5b8febaa4206096e211ecb593cff7b",
+      "hash": "ff863d1a023e914b2616347dc40c04bf85c8237b2c508c78bdde8fd76aaec51e",
       "title": "Chimera 9 Pro Analog 1.6w vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5853,7 +5857,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera9 Pro/Chimera9 Pro Analog（2.5w vtx） ELRS.txt",
-      "hash": "8f6fab8b69d8261951a33c4a904fc793cb7ff648b836873fec6027a2cc482e59",
+      "hash": "f9acfdc59c4b56f6efb15af07212dbedd52c3743b469c85eaa94b89b4a141d49",
       "title": "Chimera 9 Pro Analog 2.5w vtx CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5871,7 +5875,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera9 Pro/Chimera9 Pro O3 DJI.txt",
-      "hash": "5b17cd1d868b8a17f312c63458fb45d2fd552bf335d619e61e422428497d4122",
+      "hash": "f3de4af084df90dd3d76f5efbf914b7d4dc8972ca7a75498fa364976aa18348e",
       "title": "Chimera 9 Pro O3 DJI RC",
       "firmware_version": [
         "4.5"
@@ -5889,7 +5893,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Chimera9 Pro/Chimera9 Pro O3 ELRS.txt",
-      "hash": "2c650f391db2c662d092c73a361f444cb70f22d94a3c1467a8d72cc8d78a5584",
+      "hash": "3b97c4b8425c97ad70f22d17f7b04ae329e0e3f357073ee48aac27c89fde7b44",
       "title": "Chimera 9 Pro O3 CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5906,8 +5910,80 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/bnf/iFlight/CineFlow 5/CineFlow 5 O3_O4 CRSF 4.5.x.txt",
+      "hash": "945f7be4262aad4bca3967f583a309360a25ecbfe011b4667d62d23d1728c111",
+      "title": "CineFlow 5 O3/O4 ELRS/CRSF",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "CineFlow 5",
+        "CineFlow"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/CineFlow 5/CineFlow 5 O3_O4 DJI 4.5.x.txt",
+      "hash": "b92a149b3b54d06831099657e865d12dfc538ec2ccb9d2a1378dfe23f767addf",
+      "title": "CineFlow 5 O3/O4 DJI RC",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "CineFlow 5",
+        "CineFlow"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/CineLR 7/CineLR 7 O3_O4 CRSF 4.5.x.txt",
+      "hash": "3dad5e236dc6d26147882c530adefc4cb4c4f7714763611dd51f727f9affdf1e",
+      "title": "CineLR 7 O3/O4 ELRS/CRSF",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "CineLR 7",
+        "CineLR"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/CineLR 7/CineLR 7 O3_O4 DJI 4.5.x.txt",
+      "hash": "2dcd57823d5b9d9a98cb5cd0774ecd7b70db78b83081df392ddfd8a2a343bc7a",
+      "title": "CineLR 7 O3/O4 DJI RC",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "CineLR 7",
+        "CineLR"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/bnf/iFlight/Mach R5 Sport/Mach R5 Sport Analog 6s ELRS 4.5.0.txt",
-      "hash": "7156f929418e67b6a5e2fc434e031ba39924187cf520466bfe09bd74302fb743",
+      "hash": "0a181937569e1643fc2e9c3b7fee8fdfa5ddf5d6b5d9c53cce672454184c2e8a",
       "title": "Mach R5 Sport Analog CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5927,7 +6003,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Mach R5 Sport/Mach R5 Sport HDZero 6s ELRS 4.5.0.txt",
-      "hash": "eff9fbf52cee104a0a4b6e4ccf9690d23fbf996c1574a18caa1871de34181faa",
+      "hash": "dbd2da303dc25698d01f65ce7f77b832ecb71aaff5377ddb3780b2d5a5e08e3c",
       "title": "Mach R5 Sport HDZero CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5947,7 +6023,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Mach R5 Sport/Mach R5 Sport Vista 6s DJI 4.5.0.txt",
-      "hash": "ba1a2c4bb90f06b7e3cbbcc27a6cb27a1b2dc4b7dceb67475b8923c2680dac3b",
+      "hash": "b34c344ece9eca23393c2479a30fe58199ed2a04b5145738360be31a21fc2e4f",
       "title": "Mach R5 Sport Vista DJI RC",
       "firmware_version": [
         "4.5"
@@ -5967,7 +6043,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Mach R5 Sport/Mach R5 Sport Vista 6s ELRS 4.5.0.txt",
-      "hash": "d102a5cbb7072267c94bc14a96367246d1b3b7153099b5f05d76fc0be991f96b",
+      "hash": "2f7f827b11db021f7e88ea1c003e6620da3035940bd53196f8991f38423377b2",
       "title": "Mach R5 Sport Vista CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -5987,7 +6063,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F4/F4 O3 DJI 4.5.x.txt",
-      "hash": "158f69396f468e9a95809b10177fcb80018348306bc585e47b659a41438b023a",
+      "hash": "3609af9bbd2916f4c086c3dc33fee95d465a03b3d6790d7225d3b32cfe08b4e9",
       "title": "Nazgul F4 DJI RC",
       "firmware_version": [
         "4.5"
@@ -6006,7 +6082,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F4/F4 O3 ELRS 4.5.x.txt",
-      "hash": "7097adba0672375b9f6002f958d16c904d394749f15d52f427eb4abeed8b7a82",
+      "hash": "5f6edfb5e19332df32123903097fcab1cb95db76d7c94d3f292343daf4523a99",
       "title": "Nazgul F4 CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6025,7 +6101,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F5 V2/F5 V2 Analog ELRS.txt",
-      "hash": "c082b0274e07b53be08ec402b4d78f82e5251aecd02e9ce48be7f400585728d3",
+      "hash": "7470a92fc2c6e8d4e171af242d341c4273e2bd7198a47100e5caa1cb6076b552",
       "title": "Nazgul F5 V2 Analog CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6044,7 +6120,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F5 V2/F5 V2 O3 DJI 4.5.0.txt",
-      "hash": "6d2452f5c5f330bb19540da98f5285193d443e883b9d81132fe7e6fd5ccf2526",
+      "hash": "8dcdb8ea25b9a73133326a3dd66442ad0247df1e29f23b7d8c3d41fab29e4296",
       "title": "Nazgul F5 V2 O3 DJI RC",
       "firmware_version": [
         "4.5"
@@ -6063,7 +6139,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F5 V2/F5 V2 O3 ELRS 4.5.0.txt",
-      "hash": "ae11f9cdf974e038fba8e4b2515f5b90b358435c3bfb2739eb028cc37b0596fe",
+      "hash": "2fffe53b6f9836f83b725ac92c6c274b2b10028da0925b784be2be4ff7ab5d8b",
       "title": "Nazgul F5 V2 O3 CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6082,7 +6158,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F5 V2/F5 V2 Vista DJI 4.5.0.txt",
-      "hash": "96f9a33b1fa7803f31e267ad4fdf673d2144878bc70141e45f6c1b523f8d370b",
+      "hash": "31e85f12b3bfed781222196e8acf29c4d1152699bd09c0800bf49f53c821ee82",
       "title": "Nazgul F5 V2 Vista DJI RC",
       "firmware_version": [
         "4.5"
@@ -6101,7 +6177,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F5 V2/F5 V2 Vista ELRS 4.5.0.txt",
-      "hash": "6b49c7c68f8bb7601d4a0c5ac68c5d3de9b07d61fdf77e42c8da9da76742e339",
+      "hash": "36cd6a41f77f4a63c0af895b34cff04c4107ec6ed25a8be6eaf1ffd097580fa4",
       "title": "Nazgul F5 V2 Vista CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6120,7 +6196,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F6 V2/F6 V2 Analog ELRS 4.5.0.txt",
-      "hash": "1a513fce46b9661f1196313728cddb4eb5f34ee6154f13053c03e010c9dd5e28",
+      "hash": "c13b6727ecbee9e0b505eb4d23cd509fc8a3d29dd8462b446d81affcd2df6b61",
       "title": "Nazgul F6 V2 Analog CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6139,7 +6215,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F6 V2/F6 V2 O3 DJI 4.5.0.txt",
-      "hash": "eabf6b717371c0e64c269b17ceb1ada57886e4e3b987f8b0684ef3a197c0954f",
+      "hash": "65655408c03a76a58aa939500b9483738b453e1e62a013fb9fc2382492ae231b",
       "title": "Nazgul F6 V2 DJI RC",
       "firmware_version": [
         "4.5"
@@ -6158,7 +6234,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F6 V2/F6 V2 O3 ELRS 4.5.0.txt",
-      "hash": "03a676eb61e99f4175851e72b3a37ca7d74277dafed23c7a17b8ac5d36f4309e",
+      "hash": "c5d2193f246bc5a1c49f9d468217c031c4876a81623038ae68dca53061cd2fa1",
       "title": "Nazgul F6 V2 O3 CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6177,7 +6253,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F6 V2/F6 V2 Vista DJI 4.5.0.txt",
-      "hash": "e355902e5bb6c420085bb235785555f47080b577fef240e03132f7f2570acca6",
+      "hash": "57ce7f4aa43393e273113f19f7e0c2312393e4cfd7db18092607c7ba6f39b27e",
       "title": "Nazgul F6 V2 Vista DJI RC",
       "firmware_version": [
         "4.5"
@@ -6196,7 +6272,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F6 V2/F6 V2 Vista ELRS 4.5.0.txt",
-      "hash": "9474c0f74bb408cde611e93accbbed41425479f8b462fca0b1cec65673068bda",
+      "hash": "e8af047264095fea2fc43fc7c0f957bfd265466159f4b3a3c20d78b36b90b7f8",
       "title": "Nazgul F6 V2 Vista CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6215,7 +6291,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Taurus X8 Pro/Taurus X8 Pro O3 DJI 4.5.0.txt",
-      "hash": "8ca13b90c1bcae91f80bdaf8fe037b2a0f1ee127db8557a4e970593a4fdaf265",
+      "hash": "0c3ac1a48e51fe364ff9bddb18d446808ac16781e8dfd28f8a6563b37c065ee2",
       "title": "Taurus X8 PRO DJI RC",
       "firmware_version": [
         "4.5"
@@ -6234,7 +6310,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Taurus X8 Pro/Taurus X8 Pro O3 ELRS 4.5.0.txt",
-      "hash": "22d58cb71a7428c3638b4712a704f420294a58fa8de75f19a0dc4850df3f69c3",
+      "hash": "2a609cdb772542116b56df1202bc05ee73bbad43d5a618afe871588ba9ed6be0",
       "title": "Taurus X8 PRO CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6252,8 +6328,46 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/bnf/iFlight/Taurus X8 Pro Max/IFLIGHT_X8_Pro_Max_DJI_SBUS.txt",
+      "hash": "63c038ad4e1f9952ff3c90f16256e0479027cc369c76a7d164d20838c7b47cfb",
+      "title": "Taurus X8 Pro Max DJI RC",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Taurus X8 Pro Max",
+        "Taurus X8",
+        "Taurus"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/Taurus X8 Pro Max/IFLIGHT_X8_Pro_Max_ELRS_CRSF.txt",
+      "hash": "8dfca26ea8ac4fd98518ce19be505ea2313e1145fc733d56cf196cad80a1ce5f",
+      "title": "Taurus X8 Pro Max CRSF/ELRS",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Taurus X8 Pro Max",
+        "Taurus X8",
+        "Taurus"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/bnf/iFlight/Taurus X8 V3/Taurus X8 V3 O3 DJI 4.5.0.txt",
-      "hash": "ed526bdb2b113d33f22850f74d947dfc79015ae493d57e16aa09d2148dedc2d6",
+      "hash": "b3510756dba4ff95407385a35a5e81a83d2b09ed5f0ea23a276cae411c93fd52",
       "title": "Taurus X8 V3 DJI RC",
       "firmware_version": [
         "4.5"
@@ -6272,7 +6386,7 @@
     },
     {
       "fullPath": "presets/4.5/bnf/iFlight/Taurus X8 V3/Taurus X8 V3 O3 ELRS 4.5.0.txt",
-      "hash": "18c14b763b3d62006298479077c1d661c6a06813c0c18421614cc87a19e4cdcd",
+      "hash": "e573f3a26b9a594718769e5369f0f16426c79901f0e7583c4ca1d229a799b381",
       "title": "Taurus X8 V3 CRSF/ELRS",
       "firmware_version": [
         "4.5"
@@ -6284,44 +6398,6 @@
         "Taurus X8 V3",
         "Taurus",
         "X8"
-      ],
-      "author": "iFlight",
-      "force_options_review": true,
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/bnf/iFlight/X8 Pro Max/IFLIGHT_X8_Pro_Max_DJI_SBUS.txt",
-      "hash": "688046fc0b167f082a0eff135549f4ac79f2c7b2ab98e7047f9cf7c18f869102",
-      "title": "Taurus X8 Pro Max DJI RC",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "BNF",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "iFlight",
-        "Taurus X8 Pro Max",
-        "Taurus X8",
-        "Taurus"
-      ],
-      "author": "iFlight",
-      "force_options_review": true,
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/bnf/iFlight/X8 Pro Max/IFLIGHT_X8_Pro_Max_ELRS_CRSF.txt",
-      "hash": "13989837c6bddf3ef7d0615cbffc04b429f39770e801dce9a409585f06a2512c",
-      "title": "Taurus X8 Pro Max CRSF/ELRS",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "BNF",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "iFlight",
-        "Taurus X8 Pro Max",
-        "Taurus X8",
-        "Taurus"
       ],
       "author": "iFlight",
       "force_options_review": true,

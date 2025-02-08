@@ -7,7 +7,7 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: <a href="https://shop.iflight-rc.com/"><img src="https://github.com/Jason-drone/firmware-presets/blob/iFlight/Logo.png?raw=true" width="150px" style="display: block; float: right;"/></a>
+#$ DESCRIPTION: <a href="https://shop.iflight-rc.com/"><img src="https://github.com/Jason-iFlight/firmware-presets/blob/iFlight/Logo.png?raw=true" width="150px" style="display: block; float: right;"/></a>
 #$ DESCRIPTION:
 #$ DESCRIPTION: 
 #$ DESCRIPTION: Please read instructions carefully! All factory default options have been selected automatically!
@@ -30,7 +30,7 @@
 #$ DESCRIPTION:* -
 #$ DESCRIPTION:
 #$ WARNING: You've read the information attached to these factory defaults and take full responsibility for your own gear! Do a test flight in confined area after updating!
-#$ DISCUSSION: https://github.com/Jason-drone/firmware-presets
+#$ DISCUSSION: https://github.com/Jason-iFlight/firmware-presets
 
 #$ FORCE_OPTIONS_REVIEW: TRUE
 
@@ -38,7 +38,7 @@
 defaults nosave
 #$ OPTION END
 
-#$ OPTION BEGIN (CHECKED): Wipe All
+#$ OPTION BEGIN (CHECKED): Apply All
 # version
 # Betaflight / STM32F7X2 (S7X2) 4.5.0 Jun 25 2024 / 06:50:04 (c155f5830) MSP API: 1.46
 # config rev: 932b5c6
