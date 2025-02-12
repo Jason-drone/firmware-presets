@@ -348,6 +348,10 @@
       "DDC",
       "default",
       "defaults",
+      "Defender",
+      "Defender 16",
+      "Defender 20",
+      "Defender 25",
       "der_V",
       "diatone",
       "Digipick",
@@ -488,6 +492,8 @@
       "PIDtoolbox",
       "pro32",
       "profile",
+      "ProTek",
+      "ProTek 60 Pro",
       "Pure Race",
       "quaddiction",
       "quick",
@@ -5985,6 +5991,114 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/bnf/iFlight/Defender 16/Defender 16 O3 CRSF 4.5.0.txt",
+      "hash": "4a7aebb2a91627a5ce535abc08a206e751ff5cdaf3b7865222be797fc6849332",
+      "title": "Defender 16 O3/O4 ELRS/CRSF",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Defender 16",
+        "Defender"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/Defender 16/Defender 16 O3 DJI 4.5.0.txt",
+      "hash": "3198680b174e2c8e1cb6f9d6d7eb90b5636f4600a0a1cb0c96b5a367656719f3",
+      "title": "Defender 16 O3/O4 DJI RC",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Defender 16",
+        "Defender"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/Defender 20/Defender 20 O3 CRSF 4.5.0.txt",
+      "hash": "c0d367540c92cc93ef6456c468a595f6d8890da615839b2713b8e3a2424086d2",
+      "title": "Defender 20 O3/O4 ELRS/CRSF",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Defender 20",
+        "Defender"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/Defender 20/Defender 20 O3 DJI 4.5.0.txt",
+      "hash": "e14e315cfe8006a4ca0f93bf88de6bd409bc4b3adadfd9dd4557e985dfaed471",
+      "title": "Defender 20 O3/O4 DJI RC",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Defender 20",
+        "Defender"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/Defender 25/Defender 25  O3 CRSF 4.5.0.txt",
+      "hash": "046cab039f563772908bc6f410cadf5deab2b8f15680e13f22566932dee18b67",
+      "title": "Defender 25 O3/O4 ELRS/CRSF",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Defender 25",
+        "Defender"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/Defender 25/Defender 25  O3 DJI 4.5.0.txt",
+      "hash": "201601672ca57f56db0a9f156a648a4d239c4c9c4f491865ca1e584ae38ab3ff",
+      "title": "Defender 25 O3/O4 DJI RC",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Defender 25",
+        "Defender"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/bnf/iFlight/Mach R5 Sport/Mach R5 Sport Analog 6s ELRS 4.5.0.txt",
       "hash": "0a181937569e1643fc2e9c3b7fee8fdfa5ddf5d6b5d9c53cce672454184c2e8a",
       "title": "Mach R5 Sport Analog CRSF/ELRS",
@@ -6363,6 +6477,42 @@
         "Nazgul XL5 ECO",
         "Nazgul",
         "ECO"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/ProTek 60 Pro/ProTek60 Pro O3 CRSF 4.5.x.txt",
+      "hash": "a7d8f0d6d40d338193af44bcf3ead8e1dbd87055f73e49e09c899066c66966e1",
+      "title": "ProTek 60 Pro O3/O4 ELRS/CRSF",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "ProTek 60 Pro",
+        "ProTek"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/ProTek 60 Pro/ProTek60 Pro O3 DJI 4.5.x.txt",
+      "hash": "349be689692f4cb1a614cda5164e78328558302df6c2a8a9f13f8e5f0de4b032",
+      "title": "ProTek 60 Pro O3/O4 DJI RC",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "ProTek 60 Pro",
+        "ProTek"
       ],
       "author": "iFlight",
       "force_options_review": true,
