@@ -361,6 +361,7 @@
       "dominator",
       "DShot telemetry",
       "eachine",
+      "ECO",
       "ELRS",
       "emax",
       "EVO",
@@ -460,9 +461,11 @@
       "nano",
       "nanohawk",
       "Nazgul",
+      "Nazgul DC5 ECO",
       "Nazgul F4",
       "Nazgul F5 V2",
       "Nazgul F6 V2",
+      "Nazgul XL5 ECO",
       "Neil",
       "neuron",
       "nice",
@@ -6062,6 +6065,44 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/bnf/iFlight/Nazgul DC5 ECO/Nazgul DC5 ECO O3_4 CRSF 4.5.x.txt",
+      "hash": "bffdd76c45ea7a40f8fb418e5bac51194e052211e4d7cf65a7d23ff844f60dc5",
+      "title": "Nazgul DC5 ECO O3/O4 ELRS/CRSF",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Nazgul DC5 ECO",
+        "Nazgul",
+        "ECO"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/Nazgul DC5 ECO/Nazgul DC5 ECO O3_4 DJI 4.5.x.txt",
+      "hash": "487f6e010ed8d8bc7b3cbb49677c6e85d915045b98c71515dca2181fe0d125f7",
+      "title": "Nazgul DC5 ECO O3/O4 DJI RC",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Nazgul DC5 ECO",
+        "Nazgul",
+        "ECO"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/bnf/iFlight/Nazgul F4/F4 O3 DJI 4.5.x.txt",
       "hash": "3609af9bbd2916f4c086c3dc33fee95d465a03b3d6790d7225d3b32cfe08b4e9",
       "title": "Nazgul F4 DJI RC",
@@ -6284,6 +6325,44 @@
         "Nazgul F6 V2",
         "Nazgul",
         "F6"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/Nazgul XL5 ECO/Nazgul XL5 ECO O3_4 CRSF 4.5.x.txt",
+      "hash": "5889ffd79a5554775f3c046cbbddf2ad7ac1c31eaaa1b686dceb8b138db167b5",
+      "title": "Nazgul XL5 ECO O3/O4 ELRS/CRSF",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Nazgul XL5 ECO",
+        "Nazgul",
+        "ECO"
+      ],
+      "author": "iFlight",
+      "force_options_review": true,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/iFlight/Nazgul XL5 ECO/Nazgul XL5 ECO O3_4 DJI 4.5.x.txt",
+      "hash": "fcbd0057861cc7043e4982d782ce06f38b4ecd9d7b0cee08b23c4535e97e6747",
+      "title": "Nazgul XL5 ECO O3/O4 DJI RC",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "iFlight",
+        "Nazgul XL5 ECO",
+        "Nazgul",
+        "ECO"
       ],
       "author": "iFlight",
       "force_options_review": true,
